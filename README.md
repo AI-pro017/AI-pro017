@@ -1,6 +1,6 @@
 # Jaed Nakpil
 
-Senior AI Engineer based in the Philippines. I build production AI systems — GenAI applications, RAG pipelines, and autonomous coding agents.
+Senior AI Engineer based in the Philippines. I build production AI systems - GenAI applications, RAG pipelines, and autonomous coding agents.
 
 Currently at **BlastAsia, Inc.** designing intelligent automation and integrating large language models into enterprise workflows.
 
